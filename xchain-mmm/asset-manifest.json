@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/demos/xchain-mmm/static/css/main.2c9f4911.chunk.css",
+    "main.js": "/demos/xchain-mmm/static/js/main.8b506d60.chunk.js",
+    "main.js.map": "/demos/xchain-mmm/static/js/main.8b506d60.chunk.js.map",
+    "runtime-main.js": "/demos/xchain-mmm/static/js/runtime-main.bfc7e60d.js",
+    "runtime-main.js.map": "/demos/xchain-mmm/static/js/runtime-main.bfc7e60d.js.map",
+    "static/js/2.4f3b520e.chunk.js": "/demos/xchain-mmm/static/js/2.4f3b520e.chunk.js",
+    "static/js/2.4f3b520e.chunk.js.map": "/demos/xchain-mmm/static/js/2.4f3b520e.chunk.js.map",
+    "index.html": "/demos/xchain-mmm/index.html",
+    "static/css/main.2c9f4911.chunk.css.map": "/demos/xchain-mmm/static/css/main.2c9f4911.chunk.css.map",
+    "static/js/2.4f3b520e.chunk.js.LICENSE.txt": "/demos/xchain-mmm/static/js/2.4f3b520e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfc7e60d.js",
+    "static/js/2.4f3b520e.chunk.js",
+    "static/css/main.2c9f4911.chunk.css",
+    "static/js/main.8b506d60.chunk.js"
+  ]
+}
